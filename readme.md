@@ -12,6 +12,6 @@ The UPD16311 library has build in support for the following display models.
 
 ### Kenwood DVF-3070 DVD Player
 
-![Kenwood DVF-3070](docs\Kenwood%20DVF-3070%20display.png)
+![Kenwood DVF-3070](docs/Kenwood%20DVF-3070%20display.png)
 
 Also used in Kenwood DVF-3060 DVD Player.
